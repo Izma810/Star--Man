@@ -1,5 +1,5 @@
 # Star--Man
 A discord bot made using python
-:'))))))))))))))))))))))))))))))
-blame repl.it for its death 
+:')))))))))))))))))))))))))))))) <br>
+blame repl.it for its death <br>
 scam. 
